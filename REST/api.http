@@ -1,0 +1,12 @@
+### Variables
+
+POST  http://localhost:5000/api/slashURL
+content-type: application/json
+
+{
+    "fullURL": "https://hashtalmiz.github.io/"
+}
+####
+GET http://localhost:5000/api/AKM9dtKWq
+content-type: application/json
+
