@@ -1,5 +1,6 @@
 # Slash
-A webapp that shrinks URL sizes.
+A webapp that slashes long URLs to smaller and more managable URLs.
+Front end in development. Back end in production
 #### Built with: <br/>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
